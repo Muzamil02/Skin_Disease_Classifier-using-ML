@@ -80,3 +80,24 @@ This has a custom CNN based model which has Block-wise approach through layers t
 
 ## Results
 ### Epochs.
+<img width="778" alt="1 to 5 epochs" src="https://github.com/Muzamil02/Skin_Disease_Classifier-using-ML/assets/96439773/61749e40-1c9a-478e-8598-30513c890e55">
+<img width="702" alt="95 to 100 epochs" src="https://github.com/Muzamil02/Skin_Disease_Classifier-using-ML/assets/96439773/ec68d556-9a05-418f-9632-9ffab50a7630">
+### Accuracy and Loss Plotting:
+<img width="457" alt="Model Accuracy" src="https://github.com/Muzamil02/Skin_Disease_Classifier-using-ML/assets/96439773/971e0af4-66ca-4613-b903-5f747e4f90eb">
+<img width="427" alt="Model Loss" src="https://github.com/Muzamil02/Skin_Disease_Classifier-using-ML/assets/96439773/be399ede-6315-4bbd-b12d-7b1911fab8c3">
+### Color Bar/ Confusion Matrix:
+<img width="346" alt="Confusion Metrix" src="https://github.com/Muzamil02/Skin_Disease_Classifier-using-ML/assets/96439773/6138cf7b-0184-443a-9956-2a63199ad353">
+### HeatMap
+<img width="367" alt="Heat Map" src="https://github.com/Muzamil02/Skin_Disease_Classifier-using-ML/assets/96439773/7331637f-e177-43e3-b3ed-2f1e57f4d3d3">
+### Results compared with different Architectures:
+<img width="509" alt="Table" src="https://github.com/Muzamil02/Skin_Disease_Classifier-using-ML/assets/96439773/81ad6184-3fb1-4e86-ad97-df44527972f9">
+
+## Deployment:
+We have currently used Streamlit to execute the model for now.
+
+## Real Time Testing:
+<img width="284" alt="pre 1" src="https://github.com/Muzamil02/Skin_Disease_Classifier-using-ML/assets/96439773/f8b23fc2-b73f-4099-93df-91a3b46c8001">
+<img width="287" alt="pre 2" src="https://github.com/Muzamil02/Skin_Disease_Classifier-using-ML/assets/96439773/a3198f4f-f405-4004-bffa-ff12058ff505">
+<img width="284" alt="pre 3" src="https://github.com/Muzamil02/Skin_Disease_Classifier-using-ML/assets/96439773/c7d1f9d7-00c9-41cc-a8fc-227c664a189c">
+<img width="285" alt="pre 4" src="https://github.com/Muzamil02/Skin_Disease_Classifier-using-ML/assets/96439773/8f59f919-fc55-4263-aa63-a6c80a58d240">
+<img width="298" alt="Acne 5" src="https://github.com/Muzamil02/Skin_Disease_Classifier-using-ML/assets/96439773/20e50047-ea53-43eb-8fe1-eb647d7ba1cb">
